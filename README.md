@@ -9,7 +9,7 @@ A variant of Rock Paper Scissors created by Sam Kass and popularized by the Amer
 
 To quote Sheldon on how to play:
 
-`"Scissors cuts Paper
+`"Scissors cuts Paper,
 Paper covers Rock,
 Rock crushes Lizard,
 Lizard poisons Spock,
