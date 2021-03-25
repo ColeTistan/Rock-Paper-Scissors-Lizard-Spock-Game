@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://kit.fontawesome.com/e9962cadf9.js" crossorigin="anonymous"></script>  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Rock Paper Scissors Lizard Spock</title>
+</head>
+<body>
+  <header>
+    <div class="header-container">
+      <h3 class="game-title">Rock, Paper, Scissors, Lizard, Spock</h3>
+    </div>
+  </header>
+  <main>
+    <div class="main-container">
+      <div class="scoreboard" id="scoreboard">
+        <div class="user" id="user">
+          <p class="player-icon" id="user-icon">
+            <i class="fa fa-user"></i>
+          </p>
+          <span class="score" id="user-score">
+            <!-- dynamically add user score here --> 0
+          </span>
+        </div>
+        <div class="computer" id="computer">
+          <p class="player-icon" id="computer-icon">
+            <i class="fa fa-desktop"></i>
+          </p>
+          <span class="score" id="computer-score">
+            <!-- dynamically add user score here --> 0
+          </span>
+        </div>
+      </div>
+      <div class="result" id="result">
+        <!-- dynamically add results here -->
+      </div>
+      <div class="main-arena">
+        <div class="user-choice" id="rock">
+          <i class="fa fa-hand-rock"></i>
+        </div>
+        <div class="user-choice" id="paper">
+          <i class="fa fa-hand-paper"></i>
+        </div>
+        <div class="user-choice" id="scissors">
+          <i class="fa fa-hand-scissors"></i>
+        </div>
+        <div class="user-choice" id="lizard">
+          <i class="fa fa-hand-lizard"></i>
+        </div>
+        <div class="user-choice" id="spock">
+          <i class="fa fa-hand-spock"></i>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <div class="footer-container">
+      <p>&copy; Cole Tistan 2021</p>
+    </div>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>
