@@ -20,11 +20,11 @@ Paper disproves Spock,
 Spock vaporizes Rock,
 (and as it always has) Rock crushes Scissors."`
 
-##Technologies Used
+## Technologies Used
 `HTML5` 
 `CSS3` 
 `JavaScript`
 
-##Author
+## Author
 Cole Tistan
 https://cctistan.com
