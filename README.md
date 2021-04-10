@@ -26,5 +26,5 @@ Spock vaporizes Rock,
 `JavaScript`
 
 ## Author
-Cole Tistan
-https://cctistan.com
+- Cole Tistan
+- https://cctistan.com
